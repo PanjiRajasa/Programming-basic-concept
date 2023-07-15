@@ -1,0 +1,15 @@
+1. Variable = The container to contain a data
+- normal variable = the data inside it can be changed 
+- final variable = the data inside it can't be changed
+2. Conditional statements = these are expressions that determine if a variable is true or false
+- scheme : if A > 80:
+              true // the true expressions would be appear if the "if" condition is corresponding with the present condition
+            else:
+              false // would be happen if the "if" condition isn't corresponding with present the condition
+- these conditional statements comes in four parts:
+  •if
+  •if else
+  •if else if
+  •ladder
+3. Looping and iterations = iterations is any time a program repeat a proccess or sequence
+                            • loops are a common type of iterations
