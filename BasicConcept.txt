@@ -13,3 +13,15 @@
   •ladder
 3. Looping and iterations = iterations is any time a program repeat a proccess or sequence
                             • loops are a common type of iterations
+loops comes with 3 condition:
+  •"for" loop
+  •"while" loop
+  •"do while" loop
+4. Data types = help classify what information a variable can hold and what can be done with it
+  • The most common data types :
+    * int = integer number exp. 8,9,0,1
+    * decimal = decimal number, in some of programming language it is called a floating number exp. 2.99, 3.77
+    * booleans = a data that can hold only 2 values which are true and false
+    * characters = values,all data that only contains 1 character exp. a,b,c,f,w,x,z
+    * strings = anythings between 2 double quotes ("") or 2 single quotes ('')
+5. 
