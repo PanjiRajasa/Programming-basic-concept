@@ -24,4 +24,10 @@ loops comes with 3 condition:
     * booleans = a data that can hold only 2 values which are true and false
     * characters = values,all data that only contains 1 character exp. a,b,c,f,w,x,z
     * strings = anythings between 2 double quotes ("") or 2 single quotes ('')
-5. 
+5. Function = these are self contained modules of code that accomplish a particular task, anytime whenever needed.
+
+  *example : function myFunction() {
+    console.log("this is a function");
+  };
+  myFunction();
+
